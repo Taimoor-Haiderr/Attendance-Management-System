@@ -135,5 +135,4 @@ The system contains **5 main modules**:
 Built using **Python + Tkinter + SQLite** for efficient attendance management.
 
 
-You can copy this directly into your **README.md** file on GitHub. Replace **"Your Name"** and repository link with your own details.
 
