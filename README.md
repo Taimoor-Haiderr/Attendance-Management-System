@@ -1,7 +1,3 @@
-Here’s a professional **README.md description** for your GitHub project that explains everything you used and built in the Attendance Management System.
-
----
-
 # 📋 Attendance Management System
 
 A modern **Python-based Attendance Management System** built with **Tkinter GUI**, **SQLite database**, and **CSV synchronization**.
